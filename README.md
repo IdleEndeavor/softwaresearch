@@ -123,6 +123,12 @@ Copyright ©. All rights reserved.  All trademarks, logos and service marks disp
 
 The source code of this website is made available publically to be copied or modified for personal use. Forks, clones or other modifications of the source code of Rave Search are not allowed to be made public.
 
+### Changes to These Terms
+
+At our discretion, we may change our Terms of Use to reflect updates to our processes, current acceptable practices, or legislative or regulatory changes. If we decide to change these Terms of Use, we will post the changes here at the same link by which you are accessing these Terms of Use.
+
+If required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable.
+
 ## Privacy Policy
 
 Your privacy is important to us. It is Rave Search's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://ravesoftwaresearch.pages.dev, and other sites we own and operate.
