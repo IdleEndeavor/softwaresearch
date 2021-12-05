@@ -73,10 +73,92 @@ With its information, this website does not advocate or discourage any behaviors
 IdleEndeavor owns the Rave Software Search logo and all other brand material. External usage of this information is prohibited.
 
 ## Privacy Policy
-The Rave Software Search Engine does not collect or retain any personally identifiable information.
-This website does not utilize Analytics in any way for its own purposes except a basic searches-completed counter, and its servers do not keep track of how it is used.
-Rave Software Search Engine's search functions are built on Google Search Services. As a result, Google may gather use or analytics data from visitors of this site. This data gathering is not the responsibility of Rave Search.
-We realize you as a user's right to privacy and will strive to respect it at every step of the way, as much as we can.
+
+Your privacy is important to us. It is Rave Search's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://ravesoftwaresearch.pages.dev, and other sites we own and operate.
+
+This policy is effective as of 5 December 2021 and was last updated on 5 December 2021.
+
+### Information We Collect
+
+Information we collect includes both information you knowingly and actively provide us when using or participating in any of our services and promotions, and any information automatically sent by your devices in the course of accessing our products and services.
+
+### Log Data
+
+When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your device’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, other details about your visit, and technical details that occur in conjunction with any errors you may encounter.
+
+Please be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.
+
+### Collection and Use of Information
+
+We may collect personal information from you when you do any of the following on our website:
+
+- Use a mobile device or web browser to access our content
+- Contact us via email, social media, or on any similar technologies
+- Search using the search functionality offered by our website
+- When you mention us on social media or use the direct share buttons on our services
+
+We may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes:
+
+- To identify any errors or bugs within our systems or services and correct them accordingly
+- To calculate an accurate metric of how any services we provide are used
+- To compose an accurate list of regions and locations accessing our services; in order to optimise and improve our infrastructure
+- To collect data regarding the times at which our services are used; in order to manage updates accordingly so as to have the least impact on useability as possible
+- To identify the type of devices used to access our services and optimize them. 
+
+### Security of Your Personal Information
+
+When we collect and process personal information, and while we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.
+
+Although we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is 100% secure, and no one can guarantee absolute data security. We will comply with laws applicable to us in respect of any data breach.
+
+### How Long We Keep Your Personal Information
+
+We keep your personal information only for as long as we need to. This time period may depend on what we are using your information for, in accordance with this privacy policy. If your personal information is no longer required, we will delete it or make it anonymous by removing all details that identify you.
+
+However, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes.
+
+### Children’s Privacy
+
+We do not aim any of our products or services directly at children under the age of 13, and we do not knowingly collect personal information about children under 13.
+
+### Disclosure of Personal Information to Third Parties
+
+We may disclose personal information to:
+
+- a parent, subsidiary, or affiliate of our services
+- third party service providers for the purpose of enabling them to provide their services, for example, IT service providers, data storage, hosting and server providers,  or analytics platforms
+- our contributors/staff, and/or related entities
+- courts, tribunals, regulatory authorities, and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise, or defend our legal rights
+- third parties, including agents or sub-contractors, who assist us in providing information, products, or services to collect and process data
+
+### International Transfers of Information
+
+The personal information we collect is stored and/or processed where we or our partners, affiliates, and third-party providers maintain facilities. Please be aware that the locations to which we store, process, or transfer your personal information may not have the same data protection laws as the country in which you initially provided the information. If we transfer your personal information to third parties in other countries: (i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.
+
+### Your Rights and Controlling Your Personal Information
+
+You always retain the right to withhold personal information from us. We will not discriminate against you for exercising any of your rights over your personal information, with the understanding that any actions or protective measures you take may affect your experience while using our website.
+
+If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
+
+If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
+
+### Limits of Our Policy
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### Changes to This Policy
+
+At our discretion, we may change our privacy policy to reflect updates to our processes, current acceptable practices, or legislative or regulatory changes. If we decide to change this privacy policy, we will post the changes here at the same link by which you are accessing this privacy policy.
+
+If required by law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information.
+
+### Contact Us
+
+For any questions or concerns regarding your privacy, you may contact us using the following details:
+
+Josh George
+github.idleendeavor@erine.email
 
 ## Licence
 All of the code for the Rave search engine is available to the public and may be copied and modified for personal use. Forks, clones or other modifications are not allowed to be made public.
