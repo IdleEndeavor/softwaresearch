@@ -1,0 +1,3 @@
+https://api.countapi.xyz/create?namespace=ravesoftwaresearch&key=ravesoftwaresearch&value=0
+https://api.countapi.xyz/get/ravesoftwaresearch/ravesoftwaresearch
+https://api.countapi.xyz/update/ravesoftwaresearch/ravesoftwaresearch/?amount=1
