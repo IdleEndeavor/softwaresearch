@@ -594,7 +594,7 @@ html, body {
 
 /* Engine Switcher */
   .nav {
-    position: fixed;
+    position: absolute;
     top: 15px;
     width: 100%;
     height: 55px;
