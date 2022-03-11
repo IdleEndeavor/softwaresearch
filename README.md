@@ -2,9 +2,7 @@
 Rave Software Seach Engine assists users in discovering free Software downloads. It has a list of sources that are regularly updated and verified for safety as well as new Software download links.
 All of the websites listed and indexed by the Rave Software Search Engine have been thoroughly verified to ensure their safety.
 
-![Screenshot of Rave Software Search Engine Homepage](img/ravesearch-homepage-pic.png)
-
-![Screenshot of Rave Software Search Engine Homepage Dashboard](img/ravesearch-homepage-dashboard.png)
+![Screenshot of Rave Software Search Engine Homepage](img/ravesearch.png)
 
 # Features
 - Assists in the finding of free Software download links
