@@ -19,13 +19,12 @@ All of the websites listed and indexed by the Rave Software Search Engine have b
   - Nickname: rss
   - URL: https://ravesoftwaresearch.pages.dev/index.html?q=%s (please note that the '%s' keyword substitute may be different across browsers, kindly follow the instructions provided on your browser to replace if needed.) 
 
-# Websites Indexed (Currently 38)
-## Direct (Currently 14)
+# Websites Indexed (Currently 36)
+## Direct (Currently 13)
 - https://macadmins.software/
 - https://tb.rg-adguard.net/products.html
 - https://tb.rg-adguard.net/index.php
 - https://freedownloadae.com/
-- https://gfx-hub.net/
 - https://forum.gfxdomain.net/
 - https://audioz.download/
 - https://flsaudio.com/
@@ -35,14 +34,13 @@ All of the websites listed and indexed by the Rave Software Search Engine have b
 - https://diakov.net/
 - https://www.macbed.com
 - https://nxmac.com
-## Torrent (Currently 7)
+## Torrent (Currently 6)
 - http://nnmclub.to/forum/viewforum.php?f=504
 - https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/
 - https://vstorrent.org/
 - http://monkrus.ws/
 - http://rutracker.org/
 - https://1337x.to/
-- https://rarbg.to/
 ## Android (Currently 12)
 - https://dlandroid.com/
 - https://blackmod.net/
