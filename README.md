@@ -19,7 +19,7 @@ All of the websites listed and indexed by the Rave Software Search Engine have b
   - Nickname: rss
   - URL: https://ravesoftwaresearch.pages.dev/index.html?q=%s (please note that the '%s' keyword substitute may be different across browsers, kindly follow the instructions provided on your browser to replace if needed.) 
 
-# Websites Indexed (Currently 36)
+# Websites Indexed (Currently 34)
 ## Direct (Currently 13)
 - https://macadmins.software/
 - https://tb.rg-adguard.net/products.html
@@ -41,7 +41,7 @@ All of the websites listed and indexed by the Rave Software Search Engine have b
 - http://monkrus.ws/
 - http://rutracker.org/
 - https://1337x.to/
-## Android (Currently 12)
+## Android (Currently 10)
 - https://dlandroid.com/
 - https://blackmod.net/
 - https://4pda.ru/forum/
@@ -50,9 +50,7 @@ All of the websites listed and indexed by the Rave Software Search Engine have b
 - https://apkmb.com/
 - https://www.revdl.com/
 - https://www.androeed.ru/
-- https://github.com/ClaudiuGeorgiu/PlaystoreDownloader
 - http://apps.evozi.com/apk-downloader/
-- https://apkpure.com/
 - https://www.apkmirror.com/
 ## iOS (Currently 5)
 - https://cydia.kiiimo.org/
