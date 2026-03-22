@@ -1,3 +1,5 @@
+> **Note:** This project has been sunset due to lack of interest and use. Consider using [r/Piracy](https://www.reddit.com/r/Piracy/) and [Free Media Heck Yeah](https://fmhy.net/) as replacements instead. Other Rave websites will continue to remain operational.
+
 # Rave Software Search Engine
 Rave Software Seach Engine assists users in discovering free Software downloads. It has a list of sources that are regularly updated and verified for safety as well as new Software download links.
 All of the websites listed and indexed by the Rave Software Search Engine have been thoroughly verified to ensure their safety.
